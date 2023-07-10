@@ -1,6 +1,6 @@
 # phira_ipa
 ipa file of phira for users willing to sideload it.
 
-If this is not permitted, contact me and I will delete the repo.
+this has been permitted officially.
 
-Source code: https://github.com/Mivik/prpr
+Source code: [https://github.com/Mivik/prpr](https://github.com/TeamFlos/phira)https://github.com/TeamFlos/phira
